@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pocasi CR</string>
+    <string name="temperature">10&#xb0;C</string>
+    <string name="city">Mesto</string>
+    <string name="pressure">Tlak</string>
+    <string name="humidity">Vlhkost</string>
+    <string name="wind">Vitr</string>
+    <string name="settings_button">Nastaveni</string>
+
+    <string name="second_activity_label">Nastaveni</string>
+    <string name="second_activity_prompt">Vyberte mesto</string>
+    <string-array name="cities_array">
+        <item>Praha</item>
+        <item>Brno</item>
+        <item>Ostrava</item>
+        <item>Plzen</item>
+        <item>Liberec</item>
+        <item>Olomouc</item>
+    </string-array>
+    <string name="second_activity_button">Ulozit nastaveni</string>
+</resources>
